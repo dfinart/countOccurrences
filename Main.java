@@ -17,6 +17,6 @@ class Main
 		String str = "ABAACBDD";
 		char ch = 'A';
 
-		System.out.println("Character " + ch + " occurs " + countOccurrences(str, ch) + " times.");
+		System.out.println("Символ " + ch + " встресается " + countOccurrences(str, ch) + " раз.");
 	}
 }
